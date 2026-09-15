@@ -1,0 +1,7 @@
+Income : RM0.00
+Food Budget : RM0.00
+Transportation Budget : RM0.00
+Entertainment Budget : RM0.00
+Beverage Budget : RM0.00
+Stationery Budget : RM0.00
+Other Budget : RM0.00
