@@ -1,8 +1,2 @@
 TAN,1234,admin
 alice,1234,user
-
-Tian,1234C,user
-
-wt,wt123,user
-
-qt,1234,user
