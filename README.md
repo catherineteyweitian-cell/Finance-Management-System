@@ -39,7 +39,7 @@ I also contributed to improving the UI by designing and arranging the interface 
 ## Screenshots
 ### Savings Goal Tracker Menu
 
-<img src="screenshots/menu.png" width="400">
+<img src="screenshots/menu.png" width="600">
 
 ### After add goal
 <img src="screenshots/add-goal.png" width="400">
