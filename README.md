@@ -39,13 +39,13 @@ I also contributed to improving the UI by designing and arranging the interface 
 ## Screenshots
 ### Savings Goal Tracker Menu
 
-<img src="screenshots/menu.png" width="600">
+<img src="screenshots/menu.png" width="700">
 
 ### After add goal
-<img src="screenshots/add-goal.png" width="400">
+<img src="screenshots/add-goal.png" width="700">
 
 ### After add saving
-<img src="screenshots/add-saving.png" width="400">
+<img src="screenshots/add-saving.png" width="700">
 
 ## User Roles
 The system provides two types of user roles:
